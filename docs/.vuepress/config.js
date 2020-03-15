@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/MyBlogByVuePress/',
+    base: '/',
     title: '程序人生-Nicholas',
     description: 'Coding Life',
     head: [
