@@ -228,6 +228,14 @@ module.exports = {
                                 '/coding/java/t_maven/snapshot',
                             ]
                         },
+                        {
+                            title: '开发工具_IntelliJ IDEA',   // 必要的
+                            sidebarDepth: 2,    // 可选的, 默认值是 1
+                            children: [
+                                '/coding/java/t_idea/briefintroduction',
+                                '/coding/java/t_idea/changelog',
+                            ]
+                        },
                     ]
                 },
             ],
