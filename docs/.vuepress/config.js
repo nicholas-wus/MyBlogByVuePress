@@ -233,6 +233,7 @@ module.exports = {
                             sidebarDepth: 2,    // 可选的, 默认值是 1
                             children: [
                                 '/coding/java/t_idea/briefintroduction',
+                                '/coding/java/t_idea/mainfeature',
                                 '/coding/java/t_idea/changelog',
                             ]
                         },
