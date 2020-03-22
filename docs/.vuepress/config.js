@@ -239,6 +239,19 @@ module.exports = {
                         },
                     ]
                 },
+                {
+                    title: '开源项目',   // 必要的
+                    // sidebarDepth: 2,    // 可选的, 默认值是 1
+                    children: [
+                        {
+                            title: 'JepFast',   // 必要的
+                            sidebarDepth: 2,    // 可选的, 默认值是 1
+                            children: [
+                                '/coding/opensourceproject/jepfast/quickstart',
+                            ]
+                        },
+                    ]
+                },
             ],
         }
     }
