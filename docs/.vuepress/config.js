@@ -21,7 +21,7 @@ module.exports = {
         // displayAllHeaders: true, // 默认值：false
         nav: [
             // {text: 'Home', link: '/'},
-            {text: '国学经典', link: '/gxjd/daxueclassify/《大学》'},
+            {text: '国学经典读书笔记', link: '/gxjd/daxueclassify/《大学》读书笔记'},
             {text: '万家之言', link: '/books/productmanagement/npdp/《产品经理认证NPDP知识体系指南》'},
             {text: 'Coding', link: '/coding/computerbase/uml/umlbase'},
             {
@@ -98,11 +98,11 @@ module.exports = {
         sidebar: {
             '/gxjd/': [
                 {
-                    title: '《大学》类',   // 必要的
+                    title: '《大学》专题读书笔记',   // 必要的
                     // sidebarDepth: 2,    // 可选的, 默认值是 1
                     children: [
-                        '/gxjd/daxueclassify/《大学》',
-                        '/gxjd/daxueclassify/《大学 中庸中华经典藏书》',
+                        '/gxjd/daxueclassify/《大学》读书笔记',
+                        '/gxjd/daxueclassify/《大学 中庸中华经典藏书》读书笔记',
                     ]
                 },
             ],
