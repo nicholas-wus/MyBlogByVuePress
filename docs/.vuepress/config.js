@@ -103,6 +103,15 @@ module.exports = {
                     children: [
                         '/gxjd/daxueclassify/《大学》读书笔记',
                         '/gxjd/daxueclassify/《大学 中庸中华经典藏书》读书笔记',
+                        '/gxjd/daxueclassify/《大学精义》读书笔记',
+                    ]
+                },
+                {
+                    title: '《中庸》专题读书笔记',   // 必要的
+                    // sidebarDepth: 2,    // 可选的, 默认值是 1
+                    children: [
+                        '/gxjd/daxueclassify/《中庸》读书笔记',
+                        '/gxjd/daxueclassify/《大学 中庸中华经典藏书》读书笔记',
                     ]
                 },
             ],
